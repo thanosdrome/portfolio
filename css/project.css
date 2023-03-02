@@ -2,12 +2,10 @@
 #project-top #project-top-left {
   width: 100%;
 }
-
 #project-top #project-top-left img {
   margin-bottom: 25px;
   width: 100%;
 }
-
 #project-top #project-top-right {
   display: none;
 }
@@ -23,31 +21,21 @@
 }
 
 #title-digiexp {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 #title-digiexp #title-digiexp-left {
   width: 20%;
   font-size: 25px;
   padding-left: 20px;
 }
-
 #title-digiexp #title-digiexp-right {
   width: 80%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  justify-content: flex-end;
 }
-
 #title-digiexp #title-digiexp-right h2 {
   font-size: 25px;
 }
-
 #title-digiexp #title-digiexp-right span {
   font-size: 15px;
 }
@@ -55,38 +43,27 @@
 #mckup-digiexp {
   margin: 0px 25px 25px 25px;
 }
-
 #mckup-digiexp img {
   width: 100%;
   border-radius: 5px;
 }
 
 #title-uttam {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 #title-uttam #title-uttam-left {
   width: 20%;
   font-size: 25px;
   padding-left: 20px;
 }
-
 #title-uttam #title-uttam-right {
   width: 80%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  justify-content: flex-end;
 }
-
 #title-uttam #title-uttam-right h2 {
   font-size: 25px;
 }
-
 #title-uttam #title-uttam-right span {
   font-size: 15px;
 }
@@ -94,38 +71,27 @@
 #mckup-uttam {
   margin: 5px 25px 25px 25px;
 }
-
 #mckup-uttam img {
   width: 100%;
   border-radius: 5px;
 }
 
 #title-rajshahi {
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 #title-rajshahi #title-rajshahi-left {
   width: 20%;
   font-size: 25px;
   padding-left: 20px;
 }
-
 #title-rajshahi #title-rajshahi-right {
   width: 80%;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
+  justify-content: flex-end;
 }
-
 #title-rajshahi #title-rajshahi-right h2 {
   font-size: 25px;
 }
-
 #title-rajshahi #title-rajshahi-right span {
   font-size: 15px;
 }
@@ -133,7 +99,6 @@
 #mckup-rajshahi {
   margin: 5px 25px 25px 25px;
 }
-
 #mckup-rajshahi img {
   width: 100%;
   border-radius: 5px;
@@ -147,7 +112,6 @@
     font-size: 10px;
   }
 }
-
 @media only screen and (min-width: 350px) {
   #project-section h2 {
     font-size: 30px;
@@ -156,10 +120,9 @@
     font-size: 15px;
   }
 }
-
 /*
 @media only screen and (min-width: 475px){
-    
+
 }
 @media only screen and (min-width: 576px){
 }
@@ -181,8 +144,6 @@
     padding: 0px 60px 0px 60px;
   }
   #title-digiexp {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
   }
   #title-digiexp #title-digiexp-left {
@@ -193,12 +154,8 @@
   }
   #title-digiexp #title-digiexp-right {
     width: 80%;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    justify-content: flex-end;
   }
   #title-digiexp #title-digiexp-right h2 {
     font-size: 50px;
@@ -214,8 +171,6 @@
     padding: 0px 60px 0px 60px;
   }
   #title-uttam {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
   }
   #title-uttam #title-uttam-left {
@@ -226,12 +181,8 @@
   }
   #title-uttam #title-uttam-right {
     width: 80%;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    justify-content: flex-end;
   }
   #title-uttam #title-uttam-right h2 {
     font-size: 50px;
@@ -247,8 +198,6 @@
     padding: 0px 60px 0px 60px;
   }
   #title-rajshahi {
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
   }
   #title-rajshahi #title-rajshahi-left {
@@ -259,12 +208,8 @@
   }
   #title-rajshahi #title-rajshahi-right {
     width: 80%;
-    display: -webkit-box;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: end;
-        -ms-flex-pack: end;
-            justify-content: flex-end;
+    justify-content: flex-end;
   }
   #title-rajshahi #title-rajshahi-right h2 {
     font-size: 50px;
@@ -276,5 +221,4 @@
     width: 100%;
     border-radius: 5px;
   }
-}
-/*# sourceMappingURL=project.css.map */
+}/*# sourceMappingURL=project.css.map */
